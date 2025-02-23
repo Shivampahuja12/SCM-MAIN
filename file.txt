@@ -1,3 +1,4 @@
 Adding more content
 Adding button
 Adding nav
+Adding main page
