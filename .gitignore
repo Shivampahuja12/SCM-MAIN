@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment files
+*.env
+
+# Ignore compiled files and cache
+*.out
+*.exe
+__pycache__/
